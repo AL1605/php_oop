@@ -1,0 +1,1 @@
+a:2:{i:0;O:4:"Book":4:{s:4:"isbn";i:10011;s:4:"name";s:7:"PHP OOP";s:5:"price";i:300;s:4:"page";i:250;}i:1;O:4:"Book":4:{s:4:"isbn";i:10012;s:4:"name";s:12:"PHP Advanced";s:5:"price";i:300;s:4:"page";N;}}

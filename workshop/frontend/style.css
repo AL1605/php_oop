@@ -1,0 +1,26 @@
+.header {
+    padding: 30px;
+    color: rosybrown;
+    font-weight: bold;
+    font-size: 32px;
+}
+.toolbar {
+    padding: 10px;
+    border-bottom: #cccccc 1px solid;
+}
+.toolbar a {
+    color: #808080;
+    font-weight: bold;
+    text-decoration: none;
+}
+.toolbar a:hover {
+    text-decoration: underline;
+    color: red;
+}
+.content {
+    padding: 10px;
+}
+.footer {
+    text-align: center;
+    padding: 20px;
+}

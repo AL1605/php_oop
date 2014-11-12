@@ -1,0 +1,27 @@
+body {
+    margin: 0px;
+}
+.header {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 20px;
+    background-color: silver;
+    font-size: 20px;
+    font-weight: bold;
+    border-bottom: black 2px solid;
+}
+.toolbar {
+    padding: 8px;
+    background-color: bisque;
+    border-bottom: black 1px solid;
+}
+.toolbar a {
+    color: black;
+    text-decoration: none;
+}
+.toolbar a:hover {
+    text-decoration: underline;
+}
+.content {
+    padding: 10px;
+}
