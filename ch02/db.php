@@ -14,7 +14,7 @@ class db {
     function __construct() {
         $this->host = 'localhost';
         $this->user = 'root';
-        $this->pass = 'root';
+        $this->pass = '123456';
         $this->db_name = 'db_php_oop';
         $this->charset = 'utf-8';
     }
